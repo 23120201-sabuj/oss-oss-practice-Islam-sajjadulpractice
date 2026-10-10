@@ -1,0 +1,1 @@
+A virtual environment is a separate box of libraries for one project.
