@@ -1,0 +1,1 @@
+Git saves every version of my work, with a note about why it changed.
