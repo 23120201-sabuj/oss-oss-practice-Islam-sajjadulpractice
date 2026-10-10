@@ -1,0 +1,1 @@
+PATH is the list of folders where Windows looks when I type a program name.
